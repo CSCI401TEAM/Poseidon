@@ -21,8 +21,8 @@ This desktop application is built with Electron and integrates various functiona
 Ensure Node.js and npm are installed on your system. Open a terminal or command prompt, navigate to the app's directory, and run:
 
 ```bash
-npm install # Install dependencies
-cd backend # Get into the backend dir
+npm install -g npm # Install dependencies globally
+cd backend # Get into the backend dir ### Where is this backend? Should we not define where POSEIDON is installed?
 
 ```
 
